@@ -11,7 +11,7 @@ const TextScreen = () => {
             style={styles.input} 
             autoCapitalize="none"
             autoCorrect={false}
-            placeholder="Enter Your Name"
+            placeholder="Enter Name"
             placeholderTextColor={'grey'}
             onChangeText={(newVal) => setName(newVal)}
             value={name}
