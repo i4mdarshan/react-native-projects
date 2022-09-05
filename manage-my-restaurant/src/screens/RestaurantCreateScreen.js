@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const TrackDetailScreen = () => {
+const RestaurantCreateScreen = () => {
   return (
     <View>
-      <Text>TrackDetailScreen</Text>
+      <Text>RestaurantCreateScreen</Text>
     </View>
   )
 }
 
-export default TrackDetailScreen
+export default RestaurantCreateScreen
 
 const styles = StyleSheet.create({})

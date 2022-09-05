@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tracks",
-    "slug": "tracks",
+    "name": "Manage My Restaurant",
+    "slug": "manage-my-restaurant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
